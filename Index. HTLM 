@@ -1,1 +1,137 @@
-Index. HTLM 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alavanque seu Negócio | Marketing Digital</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .gradient-bg {
+            background: linear-gradient(135deg, #1e1b4b 0%, #311042 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans text-gray-800">
+
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <i class="fa-solid fa-chart-line text-indigo-600 text-2xl"></i>
+                <span class="font-bold text-xl tracking-tight bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">DigitalPRO</span>
+            </div>
+            <a href="https://wa.me/258835441425" target="_blank" class="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-full font-medium text-sm transition-all flex items-center gap-2 shadow-md">
+                <i class="fa-brands fa-whatsapp text-lg"></i> Fale Connosco
+            </a>
+        </div>
+    </header>
+
+    <section class="gradient-bg text-white py-16 lg:py-24 px-4 sm:px-6 lg:px-8">
+        <div class="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
+            
+            <div class="space-y-6 text-center lg:text-left">
+                <span class="bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider">
+                    Resultados Reais no Digital
+                </span>
+                <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold leading-tight">
+                    Multiplique as suas vendas com <span class="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">Tráfego Qualificado</span>
+                </h1>
+                <p class="text-lg text-gray-300 max-w-xl mx-auto lg:mx-0">
+                    Criamos estratégias de marketing digital personalizadas para atrair clientes prontos para comprar o seu produto ou serviço. Pare de perder dinheiro!
+                </p>
+                
+                <div class="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start pt-4">
+                    <a href="https://wa.me/258835441425?text=Ol%C3%A1!%20Gostaria%20de%20saber%20mais%20sobre%20os%20servi%C3%A7os%20de%20marketing%20digital." 
+                       target="_blank" 
+                       class="inline-flex items-center justify-center gap-3 bg-green-500 hover:bg-green-600 text-white font-bold px-8 py-4 rounded-xl shadow-lg hover:shadow-green-500/20 transform hover:-translate-y-0.5 transition-all text-base sm:text-lg">
+                        <i class="fa-brands fa-whatsapp text-xl"></i>
+                        Enviar WhatsApp
+                    </a>
+                    
+                    <a href="sms:+258835441425?body=Ola! Gostaria de saber mais sobre os servicos de marketing digital." 
+                       class="inline-flex items-center justify-center gap-3 bg-white hover:bg-gray-100 text-indigo-950 font-bold px-8 py-4 rounded-xl shadow-lg transform hover:-translate-y-0.5 transition-all border border-gray-200 text-base sm:text-lg">
+                        <i class="fa-solid fa-comment-sms text-xl text-indigo-600"></i>
+                        Enviar SMS
+                    </a>
+                </div>
+                
+                <p class="text-xs text-gray-400 flex items-center justify-center lg:justify-start gap-2">
+                    <i class="fa-solid fa-lock"></i> Resposta rápida e atendimento personalizado.
+                </p>
+            </div>
+
+            <div class="relative flex justify-center">
+                <div class="absolute -inset-1 bg-gradient-to-r from-purple-600 to-indigo-600 rounded-2xl blur opacity-30"></div>
+                <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80" 
+                     alt="Estratégia de Marketing Digital e Métricas" 
+                     class="relative rounded-2xl shadow-2xl border border-white/10 object-cover w-full max-w-lg h-80 sm:h-96">
+            </div>
+
+        </div>
+    </section>
+
+    <section class="py-16 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+            <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Por que escolher os nossos serviços?</h2>
+            <p class="mt-4 text-lg text-gray-600">Focamos em métricas que realmente importam: o seu faturamento no fim do mês.</p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8">
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+                <div class="w-12 h-12 bg-indigo-100 rounded-xl flex items-center justify-center text-indigo-600 mb-6 text-xl">
+                    <i class="fa-solid fa-bullseye"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-2">Público Alvo Certo</h3>
+                <p class="text-gray-600">Encontramos exatamente as pessoas que já têm interesse real no que você vende.</p>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+                <div class="w-12 h-12 bg-indigo-100 rounded-xl flex items-center justify-center text-indigo-600 mb-6 text-xl">
+                    <i class="fa-solid fa-pen-nib"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-2">Anúncios Atraentes</h3>
+                <p class="text-gray-600">Criamos designs e textos persuasivos para destacar o seu negócio da concorrência.</p>
+            </div>
+
+            <div class="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
+                <div class="w-12 h-12 bg-indigo-100 rounded-xl flex items-center justify-center text-indigo-600 mb-6 text-xl">
+                    <i class="fa-solid fa-chart-pie"></i>
+                </div>
+                <h3 class="text-xl font-bold mb-2">Análise de Dados</h3>
+                <p class="text-gray-600">Acompanhamos cada centavo investido para garantir o melhor Retorno sobre Investimento (ROI).</p>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-gray-100 py-16 px-4 sm:px-6 lg:px-8 text-center">
+        <div class="max-w-3xl mx-auto space-y-6">
+            <h2 class="text-3xl font-bold text-gray-900">Pronto para dar o próximo passo?</h2>
+            <p class="text-lg text-gray-600">Não deixe para amanhã os clientes que você pode conquistar hoje. Escolha o canal de sua preferência e fale connosco agora mesmo!</p>
+            
+            <div class="flex flex-col sm:flex-row justify-center gap-4 pt-4">
+                <a href="https://wa.me/258835441425?text=Gostaria%20de%20solicitar%20um%20or%C3%A7amento." 
+                   target="_blank" 
+                   class="bg-green-500 hover:bg-green-600 text-white font-bold px-8 py-3 rounded-lg shadow-md transition-all flex items-center justify-center gap-2">
+                    <i class="fa-brands fa-whatsapp text-lg"></i> Iniciar Conversa no WhatsApp
+                </a>
+                <a href="sms:+258835441425?body=Gostaria de solicitar um orcamento." 
+                   class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold px-8 py-3 rounded-lg shadow-md transition-all flex items-center justify-center gap-2">
+                    <i class="fa-solid fa-comment-sms text-lg"></i> Enviar uma SMS Normal
+                </a>
+            </div>
+            <p class="text-sm text-gray-500 mt-2">Contacto Direto: +258 83 544 1425</p>
+        </div>
+    </section>
+
+    <footer class="bg-indigo-950 text-gray-400 py-8 px-4 border-t border-indigo-900">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-4 text-sm">
+            <p>&copy; 2026 DigitalPRO. Todos os direitos reservados.</p>
+            <div class="flex gap-6">
+                <a href="#" class="hover:text-white">Termos de Uso</a>
+                <a href="#" class="hover:text-white">Política de Privacidade</a>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>Index. HTLM 
